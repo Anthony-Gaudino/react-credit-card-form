@@ -1,0 +1,23 @@
+@use "../../theme.scss";
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  font-size: 1rem;
+  color: theme.$white;
+  cursor: pointer;
+  background: theme.$primary-color;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 3px 10px 20px 0 rgb(35 100 210 / 30%);
+
+  &:hover {
+    background: theme.$hover-color;
+  }
+
+  &--full-width {
+    width: 100%;
+  }
+}

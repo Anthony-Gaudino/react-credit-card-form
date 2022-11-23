@@ -1,0 +1,9 @@
+.inputLabel {
+  display: block;
+  width: 100%;
+  font-size: 0.8rem;
+
+  &--hidden {
+    font-size: 0;
+  }
+}

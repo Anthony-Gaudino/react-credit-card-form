@@ -1,0 +1,9 @@
+@use "../../theme.scss";
+
+.paper {
+  background-color: theme.$white;
+  border-radius: 8px;
+  box-shadow:
+    0 calc(5px * var(--elevation)) calc(10px * var(--elevation)) 0
+    theme.$shadow-color;
+}

@@ -1,0 +1,5 @@
+@use "../../theme.scss";
+
+.textField {
+  @include theme.field;
+}

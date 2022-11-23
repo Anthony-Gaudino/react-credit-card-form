@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test fieldset component the fieldset is correctly rendered 1`] = `
+<DocumentFragment>
+  <fieldset
+    class="fieldset"
+  >
+    <legend
+      class="fieldset__legend"
+    >
+      A legend
+    </legend>
+    <label
+      class="inputLabel"
+    >
+      A label
+      <input
+        class="textField"
+        type="text"
+      />
+    </label>
+  </fieldset>
+</DocumentFragment>
+`;

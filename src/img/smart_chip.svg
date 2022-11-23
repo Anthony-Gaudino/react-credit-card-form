@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192.85" height="171.94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Smart Chip CPU by Merlin2525.svg</title>
+ <defs>
+  <linearGradient id="linearGradient79396">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fdfdbf" offset=".25"/>
+   <stop stop-color="#fcfc80" offset=".6294"/>
+   <stop stop-color="#581c00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient79432" x1="-345.06" x2="-315.25" y1="-88.586" y2="129.64" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient79396"/>
+  <radialGradient id="radialGradient79449" cx="-474.37" cy="56.235" r="96.605" gradientTransform="matrix(-2.5638 -.053242 .031083 -1.4976 -484.08 413.4)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient79396"/>
+  <radialGradient id="radialGradient79468" cx="-374.38" cy="25.239" r="96.598" gradientTransform="matrix(-1.489 -.79642 .90932 -1.7001 108.27 100.12)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f8f074" offset="0"/>
+   <stop stop-color="#985c00" offset="1"/>
+  </radialGradient>
+  <style type="text/css">.str0 {stroke:#4D4948;stroke-width:0.147924}
+    .str2 {stroke:#582E3A;stroke-width:0.29589}
+    .str3 {stroke:#582E3A;stroke-width:0.29589;stroke-linecap:round}
+    .str1 {stroke:#E77817;stroke-width:0.591821;stroke-linecap:round}
+    .fil2 {fill:none}
+    .fil1 {fill:#4D4948}
+    .fil5 {fill:#582E3A}
+    .fil3 {fill:#DEDEDD}
+    .fil4 {fill:#582E3A;fill-rule:nonzero}
+    .fil0 {fill:black;fill-rule:nonzero}</style>
+ </defs>
+ <g transform="translate(-543.95 -275.33)">
+  <g>
+   <path d="m571.48 277.75 138.86 0.0386c13.399 4e-3 24.166 10.793 24.143 24.192l-0.20825 118.79c-0.0235 13.399-10.829 24.182-24.228 24.178l-138.86-0.0386c-13.399-4e-3 -24.166-10.793-24.143-24.192l0.20827-118.79c0.0235-13.399 10.829-24.182 24.228-24.178z" fill="url(#radialGradient79468)" stroke="#f8f070" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.6122"/>
+   <g transform="rotate(99.553 17.645 605.88)" fill="url(#linearGradient79432)">
+    <path d="m-384.47-53.969a2.3063 2.3063 0 0 0-2.125 2.6875l9.3125 58.562a2.3063 2.3063 0 0 0 2.6562 1.9062l125.12-21.094a2.3145 2.3145 0 1 0-0.78125-4.5625l-122.81 20.719-8.9375-56.25a2.3063 2.3063 0 0 0-2.4375-1.9688zm145.62 104.28a2.3063 2.3063 0 0 0-0.375 0.0625l-164.41 28.188a2.3145 2.3145 0 1 0 0.78125 4.5625l164.41-28.219a2.3063 2.3063 0 0 0-0.40625-4.5938z" color="#000000" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+    <path d="m-343.22-60.844a2.3012 2.3012 0 0 0-2.0625 2.7188l9.875 58.375a2.3145 2.3145 0 1 0 4.5625-0.78125l-9.9062-58.375a2.3012 2.3012 0 0 0-2.4688-1.9375z" color="#000000" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+    <path d="m-303.12-67.781a2.3012 2.3012 0 0 0-2.2812 2.75l10.156 58.5a2.3145 2.3145 0 1 0 4.5625-0.78125l-10.188-58.531a2.3012 2.3012 0 0 0-2.25-1.9375z" color="#000000" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+    <path d="m-364.25 71.812a2.3012 2.3012 0 0 0-2.3125 2.7188l8.9062 56.094a2.3094 2.3094 0 1 0 4.5625-0.71875l-8.9375-56.094a2.3012 2.3012 0 0 0-2.2188-2z" color="#000000" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+    <path d="m-321.97 64.531c-1.2766 0.11077-2.2998 1.4595-2.0625 2.7188l9.2514 54.771c0.12468 1.2482 1.4281 2.2464 2.6656 2.0416s2.1498-1.5698 1.8656-2.7916l-9.2514-54.803c-0.17779-1.1373-1.3218-2.0351-2.4688-1.9375z" color="#000000" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+    <path d="m-281.56 57.594a2.3012 2.3012 0 0 0-2.0625 2.7188l9.875 56.688a2.3012 2.3012 0 1 0 4.5312-0.78125l-9.8438-56.688a2.3012 2.3012 0 0 0-2.5-1.9375z" color="#000000" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+   </g>
+   <path d="m735.27 425.98c0.35565-1.7247 0.54461-3.4972 0.54781-5.3267l0.187-118.8c0.0256-14.636-11.801-26.501-26.437-26.505l-138.86-0.0131c-14.636-4e-3 -26.515 11.826-26.541 26.462l-0.21781 118.8c-0.0257 14.636 11.831 26.506 26.468 26.51l138.86 0.0131c12.807 4e-3 23.503-9.0628 25.993-21.136zm-4.5041-0.91642c-2.0446 10.007-10.836 17.462-21.476 17.459l-138.89-0.0491c-12.161-3e-3 -21.852-9.7026-21.831-21.864l0.21781-118.8c0.0213-12.161 9.7438-21.89 21.905-21.887l138.89 0.0491c12.161 3e-3 21.852 9.7026 21.831 21.863l-0.2178 118.8c-3e-3 1.5201-0.13617 2.9982-0.42825 4.4278z" color="#000000" fill="url(#radialGradient79449)" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+  </g>
+ </g>
+</svg>

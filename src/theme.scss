@@ -1,0 +1,36 @@
+@import "https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;600;700&family=Source+Sans+Pro:wght@400;600;700&display=swap";
+
+$primary-color: #2364d2 !default;
+$hover-color: #3d9cff !default;
+$bg-color: #ddeefc !default;
+$border-color: #ced6e0 !default;
+$font-color: #1a3b5d !default;
+$white: white !default;
+$font-family: "Source Sans Pro", sans-serif !default;
+$shadow-color: rgb(32 56 117 / 35%) !default;
+$error-color: #d22364 !default;
+
+/// Input field.
+@mixin field {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  margin-top: 0.4rem;
+  font-size: 1rem;
+  background: none;
+  border: 1px solid $border-color;
+  border-radius: 8px;
+
+  &:hover,
+  &:focus {
+    border-color: $hover-color;
+  }
+
+  &:focus {
+    box-shadow: 0 10px 20px -13px $shadow-color;
+  }
+
+  &--highlight-invalid:invalid {
+    border-color: $error-color;
+  }
+}

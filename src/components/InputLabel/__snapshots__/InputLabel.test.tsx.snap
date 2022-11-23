@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test InputLabel component the label is correctly rendered 1`] = `
+<DocumentFragment>
+  <label
+    class="inputLabel"
+  >
+    A label
+  </label>
+</DocumentFragment>
+`;

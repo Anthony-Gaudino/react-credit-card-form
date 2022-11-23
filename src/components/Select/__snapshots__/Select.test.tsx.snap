@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Select component the select input is correctly rendered 1`] = `
+<DocumentFragment>
+  <label
+    class="inputLabel"
+  >
+    My select
+    <select
+      class="select"
+    >
+      <option
+        disabled=""
+        value=""
+      >
+        Pick one
+      </option>
+      <option
+        value="1"
+      >
+        Option one
+      </option>
+      <option
+        value="2"
+      >
+        Option two
+      </option>
+    </select>
+  </label>
+</DocumentFragment>
+`;

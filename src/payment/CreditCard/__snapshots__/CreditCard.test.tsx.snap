@@ -1,0 +1,116 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test CreditCard component the widget is correctly rendered 1`] = `
+<DocumentFragment>
+  <div
+    class="creditCard"
+    role="button"
+    tabindex="-1"
+  >
+    <div
+      class="paper creditCard__paper"
+      style="--elevation: 6;"
+    >
+      <div
+        class="creditCard__surface creditCard__surface--front"
+      >
+        <div
+          class="creditCard__contentWrapper"
+        >
+          <div
+            class="creditCard__row"
+          >
+            <img
+              alt=""
+              class="creditCard__chip"
+              src="smart_chip.svg"
+            />
+            <img
+              alt=""
+              class="creditCard__issuer"
+              src="[object Object]"
+            />
+          </div>
+          <div
+            class="creditCard__row"
+          >
+            <span
+              class="creditCard__number"
+            >
+              4000 0000 0000 0000
+            </span>
+          </div>
+          <div
+            class="creditCard__row"
+          >
+            <div
+              class="creditCard__info"
+            >
+              <div
+                class="creditCard__infoTitle"
+              >
+                Card Holder
+              </div>
+              <div
+                class="creditCard__infoContent"
+              >
+                John Doe
+              </div>
+            </div>
+            <div
+              class="creditCard__info"
+            >
+              <div
+                class="creditCard__infoTitle"
+              >
+                Expires
+              </div>
+              <div
+                class="creditCard__infoContent"
+              >
+                01/25
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="creditCard__surface creditCard__surface--back"
+      >
+        <div
+          class="creditCard__contentWrapper"
+        >
+          <div
+            class="creditCard__magneticTape"
+          />
+          <div
+            class="creditCard__signatureAndCVVWrapper"
+          >
+            <div
+              class="creditCard__CVVTitle"
+            >
+              CVV
+            </div>
+            <div
+              class="creditCard__CVVField"
+            >
+              <span>
+                123
+              </span>
+            </div>
+          </div>
+          <div
+            class="creditCard__row creditCard__row--right"
+          >
+            <img
+              alt=""
+              class="creditCard__issuer"
+              src="[object Object]"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
